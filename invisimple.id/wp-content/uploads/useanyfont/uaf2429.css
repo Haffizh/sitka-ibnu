@@ -1,0 +1,19 @@
+				@font-face {
+					font-family: 'collina';
+					src: url('9303Collina.woff2') format('woff2'),
+						url('9303Collina.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.collina{font-family: 'collina' !important;}
+
+						@font-face {
+					font-family: 'hatolie';
+					src: url('1979Hatolie.woff2') format('woff2'),
+						url('1979Hatolie.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.hatolie{font-family: 'hatolie' !important;}
+
+		

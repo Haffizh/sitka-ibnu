@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Jun 2024 22:09:30 at https://invisimple.id/l05/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://invisimple.id/l05/ -O1 "D:\Undangan\fira-restu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:10:20	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://invisimple.id/l05/)
+22:10:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/l05/feed/ (from https://invisimple.id/l05/)
+22:10:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/uploads/elementor/thumbs/img-sample-05-6-qn8y8t9ix04dic1ug98gakckzg37h2zd860jc20nzk.jpg (from https://invisimple.id/l05/)
+22:10:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/invisimple-2/assets/js/dynamic-countdown.min.js?ver=2.2.5 (from https://invisimple.id/l05/)
+22:10:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invisimple.id/wp-content/plugins/invisimple-0/assets/js/modal-min.js?ver=3.5.9 (from https://invisimple.id/l05/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 134 links scanned, 128 files written (6310562 bytes overall) [3260764 bytes received at 51758 bytes/sec], 3991104 bytes transferred using HTTP compression in 85 files, ratio 21%, 12.1 requests per connection
+(1 errors, 4 warnings, 0 messages)
